@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "westeurope"
+            "value": "japanwest"
         },
         "namePrefix": {
-            "value": "mypref"
+            "value": "hlf"
         },
         "authType": {
             "value": "sshPublicKey"
@@ -15,7 +15,7 @@
             "value": "azureuser"
         },
         "adminSSHKey": {
-            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDQHC7Q1pK9uO4IGREoYmIH60j+I+C3ZTqf9pFvKEq8R3Oky5mPY3HZQ6Lno/VTrxL7YqHqpt6DSdaCKy/CUlnaf3agtUItpNj6Ro7lnGUoADUOWRuhJdgN1VmgZxGxrhB1j0b0WQK9PwOL9C2yBuwP6O5VeZU3FUDNODUe7g5VgpmWLNTINB9unr54cUVYXt19c+WA17iHQiWUfPHWCEdQz8wNblbtMRkZdEuWf19xy2QjkZpoS/cRYfy8E7WSYN45P0TigjkX1t/kkdblFOKyBU+1ONOm2/PTVx/yksf/hZtqEUz+B9ovEOdTslyf+12OxdFYucoTvwb31/00UoqT4+3rwZnzkQPA4iIN5rQqr9da52bbz5Hp/5c+fIpfM/0OyucoZ4gyGDNDutuNsFgjo3bRN++QiXlD/kQ+38vJERvMHRVYaDTQ6b925PMfyySE69mqHG/jF/9MYIWF5E2pJjFR5RjMY9lCEyIRlk8rs6pBiG94bDTeDrow90Wm6jijzKbHogJXRU5weHmz3Z+65hDBdPhcUVcwJR//z+vkICcZSldU5Qn9XUDwzPVPJ1hReFZDYdepCinNK5hbUii79KOM+TjzCMGzcwtMYmay0hAUStZJqDTHpEYC+6RagHlrmN2AumsyWQgnoUz8e64msaCdCwIYqtSy2JmyFJBl2Q=="
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCrjRav+7jrC8atHQ0IdzZ5hh1aAAHT69DnBj0E7y0oyF4ibqTITRu1HZGT9Thk7LYPkfnsmv5NnPivyv8Lv2b8K+ikECPLR7FvKVXQ1SEhdzBUUReAMuqbynmIEG7xeRBGft6lt80iOB18TP1bgGy2/nSb1jVE5E3RFNLy21xbmdnf8e5/QF/MtTBTtqHm+VyssOUVZRXtc7enchWT6V886pMdtH7PwG9r7m2+wAK/gJqBuU5YKwW3x7soDeFVS+g5AXvlPw16SU6JB9preHJtJ77wjJvCqlanQBWWV6HPzc2JTtO4sBvjMdpU5Fif2G4ldLWjRCjeJkV95X6zk7JRMBm00M5mtKUswkSr1WvsIw/X4XggmniSbuTvzE9jNelSOQB7BYgPTKotsq1C9rIISIPFdI4KxFH/eK99nLEAIG/lnYzUk+KtRAp64hxxJ+hkFxtlb8D7K2gcWKeTahQmtAtLJTlBvHvmSLkE6I/djPbD9YBQiw8eAQCTt52386IwE7OVelo+URUAN+SSQzh80pK+zSU2sOQO7WO72lQPiuQYLmffVeJSCD8eK55Pc5igh1CX/XdlmXQfHRm36dF+SuKom753eInX7BStwAieKJJAMv0Bm1zsCLAmliEL/x4b8yk0ysfK8bvjAcRiymBV12+eFEJ2r2WTZejrAG8gnw== nextc3m@gmail.com"
         },
         "restrictAccess": {
             "value": 0
@@ -24,7 +24,7 @@
             "value": 1
         },
         "mnNodeVMSize": {
-            "value": "Standard_A1"
+            "value": "Standard_D1_v2"
         },
         "mnStorageAccountType": {
             "value": "Standard_LRS"
@@ -33,7 +33,7 @@
             "value": 1
         },
         "onNodeVMSize": {
-            "value": "Standard_A1"
+            "value": "Standard_D1_v2"
         },
         "onStorageAccountType": {
             "value": "Standard_LRS"
@@ -42,7 +42,7 @@
             "value": 2
         },
         "pnNodeVMSize": {
-            "value": "Standard_A1"
+            "value": "Standard_D1_v2"
         },
         "pnStorageAccountType": {
             "value": "Standard_LRS"
@@ -51,7 +51,7 @@
             "value": "admin"
         },
         "CAPassword": {
-            "value": "MCu6UOiXDa8D"
+            "value": "Pass123456789"
         }
     }
 }
