@@ -14,6 +14,9 @@
         "adminUsername": {
             "value": "azureuser"
         },
+	"adminPassword": {
+	    "value": "Pass123456789"
+	},
         "adminSSHKey": {
             "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCrjRav+7jrC8atHQ0IdzZ5hh1aAAHT69DnBj0E7y0oyF4ibqTITRu1HZGT9Thk7LYPkfnsmv5NnPivyv8Lv2b8K+ikECPLR7FvKVXQ1SEhdzBUUReAMuqbynmIEG7xeRBGft6lt80iOB18TP1bgGy2/nSb1jVE5E3RFNLy21xbmdnf8e5/QF/MtTBTtqHm+VyssOUVZRXtc7enchWT6V886pMdtH7PwG9r7m2+wAK/gJqBuU5YKwW3x7soDeFVS+g5AXvlPw16SU6JB9preHJtJ77wjJvCqlanQBWWV6HPzc2JTtO4sBvjMdpU5Fif2G4ldLWjRCjeJkV95X6zk7JRMBm00M5mtKUswkSr1WvsIw/X4XggmniSbuTvzE9jNelSOQB7BYgPTKotsq1C9rIISIPFdI4KxFH/eK99nLEAIG/lnYzUk+KtRAp64hxxJ+hkFxtlb8D7K2gcWKeTahQmtAtLJTlBvHvmSLkE6I/djPbD9YBQiw8eAQCTt52386IwE7OVelo+URUAN+SSQzh80pK+zSU2sOQO7WO72lQPiuQYLmffVeJSCD8eK55Pc5igh1CX/XdlmXQfHRm36dF+SuKom753eInX7BStwAieKJJAMv0Bm1zsCLAmliEL/x4b8yk0ysfK8bvjAcRiymBV12+eFEJ2r2WTZejrAG8gnw== nextc3m@gmail.com"
         },
