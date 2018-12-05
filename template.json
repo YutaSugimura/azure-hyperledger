@@ -167,7 +167,7 @@
                 "description": "The base URL for dependent assets",
                 "artifactsBaseUrl": ""
             },
-            "defaultValue": "https://raw.githubusercontent.com/fabienpe/azure-hyperledger-artifacts/master"
+            "defaultValue": "https://github.com/YutaSugimura/azure-hyperledger.git"
         }
     },
     "variables": {
